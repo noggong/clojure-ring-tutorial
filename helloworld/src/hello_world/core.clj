@@ -46,7 +46,6 @@
 
 (defn handler
       [{params :params}]
-      (println (str params) "😃")
       (let [temp-file (multipart params)]
         (if (not(nil? temp-file))
           (do (copy
