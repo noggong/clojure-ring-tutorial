@@ -1,0 +1,16 @@
+lib
+classes
+ring-*.jar
+ring.jar
+ring-standalone.jar
+pom.xml
+pom.xml.asc
+autodoc
+.lein-failures
+codox
+.lein-deps-sum
+.lein-env
+target
+checkouts
+.lein-repl-history
+.nrepl-port

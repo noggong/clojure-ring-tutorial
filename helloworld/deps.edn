@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {ring/ring {:local/root "/Users/junhowoo/Documents/01.work/01.greenlabs/02.repositories/ring-/ring-master/target/ring-1.9.6-standalone.jar"}}}

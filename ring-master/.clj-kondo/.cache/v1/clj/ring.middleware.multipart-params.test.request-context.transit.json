@@ -1,0 +1,1 @@
+["^ ","~$test-default-content-length",["^ ","~:row",5,"~:col",1,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$ring.middleware.multipart-params.test.request-context","~:top-ns","^7"],"~:filename","/Users/junhowoo/Documents/01.work/01.greenlabs/02.repositories/ring-/ring-master/ring-core/test/ring/middleware/multipart_params/test/request_context.clj"]
